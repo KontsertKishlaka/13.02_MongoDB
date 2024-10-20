@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018a"
+  },
+  "name": "Красная площадь",
+  "type": "historical_monument",
+  "region": "Москва",
+  "coordinates": [
+    55.7558,
+    37.6173
+  ],
+  "description": "Центральная площадь Москвы, окруженная историческими зданиями.",
+  "photos": [
+    "https://example.com/red_square_photo1.jpg",
+    "https://example.com/red_square_photo2.jpg"
+  ],
+  "rating": 4.8,
+  "tags": [
+    "history",
+    "architecture",
+    "tourism",
+    "moscow"
+  ],
+  "website": "https://www.moscow.ru/city/attractions/red_square/",
+  "address": "Красная площадь, Москва, Россия",
+  "opening_hours": "Круглосуточно",
+  "price_category": "бесплатно",
+  "activities": [
+    "пешая прогулка",
+    "фотосъемка",
+    "посещение магазинов",
+    "прогулка по Красной площади"
+  ],
+  "special_features": [
+    "Собор Василия Блаженного",
+    "Мавзолей Ленина",
+    "ГУМ",
+    "Государственный исторический музей"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018b"
+  },
+  "name": "Петергоф",
+  "type": "palace_and_park_ensemble",
+  "region": "Санкт-Петербург",
+  "coordinates": [
+    59.9275,
+    30.0708
+  ],
+  "description": "Великолепный дворцово-парковый ансамбль, известный своими фонтанами и красивыми садами.",
+  "photos": [
+    "https://example.com/petergof_photo1.jpg",
+    "https://example.com/petergof_photo2.jpg"
+  ],
+  "rating": 4.7,
+  "tags": [
+    "history",
+    "architecture",
+    "tourism",
+    "saint_petersburg",
+    "palace",
+    "park",
+    "fountains"
+  ],
+  "website": "https://peterhofmuseum.ru/",
+  "address": "Петергоф, Санкт-Петербург, Россия",
+  "opening_hours": "10:00 - 18:00",
+  "price_category": "средний",
+  "activities": [
+    "прогулка по парку",
+    "посещение дворца",
+    "фотосъемка",
+    "катание на лодках"
+  ],
+  "special_features": [
+    "Великий каскад",
+    "фонтаны",
+    "Дворцовая площадь",
+    "Нижний парк",
+    "Верхний парк"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour",
+    "Библио Глобус"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018c"
+  },
+  "name": "Собор Василия Блаженного",
+  "type": "church",
+  "region": "Москва",
+  "coordinates": [
+    55.7558,
+    37.6201
+  ],
+  "description": "Знаменитый храм на Красной площади, известный своей яркой архитектурой и богатой историей.",
+  "photos": [
+    "https://example.com/basil_cathedral_photo1.jpg",
+    "https://example.com/basil_cathedral_photo2.jpg"
+  ],
+  "rating": 4.9,
+  "tags": [
+    "history",
+    "architecture",
+    "tourism",
+    "moscow",
+    "church",
+    "orthodox"
+  ],
+  "website": "https://www.stbasils.ru/",
+  "address": "Красная площадь, Москва, Россия",
+  "opening_hours": "10:00 - 18:00",
+  "price_category": "средний",
+  "activities": [
+    "посещение собора",
+    "фотосъемка",
+    "экскурсии"
+  ],
+  "special_features": [
+    "девять куполов",
+    "яркие цвета",
+    "иконы",
+    "исторический контекст"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour",
+    "Русский Экскурс"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018d"
+  },
+  "name": "Эрмитаж",
+  "type": "museum",
+  "region": "Санкт-Петербург",
+  "coordinates": [
+    59.9387,
+    30.3147
+  ],
+  "description": "Один из крупнейших и богатейших музеев мира, известный своими коллекциями живописи, скульптуры, археологических артефактов и других произведений искусства.",
+  "photos": [
+    "https://example.com/hermitage_photo1.jpg",
+    "https://example.com/hermitage_photo2.jpg"
+  ],
+  "rating": 4.8,
+  "tags": [
+    "art",
+    "history",
+    "tourism",
+    "saint_petersburg",
+    "museum",
+    "culture"
+  ],
+  "website": "https://www.hermitagemuseum.org/",
+  "address": "Дворцовая площадь, 2, Санкт-Петербург, Россия",
+  "opening_hours": "10:30 - 18:00",
+  "price_category": "средний",
+  "activities": [
+    "посещение музея",
+    "экскурсии",
+    "фотосъемка"
+  ],
+  "special_features": [
+    "Зимний дворец",
+    "коллекции живописи",
+    "скульптура",
+    "археологические артефакты"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour",
+    "Библио Глобус"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018e"
+  },
+  "name": "Казанский собор",
+  "type": "church",
+  "region": "Санкт-Петербург",
+  "coordinates": [
+    59.9438,
+    30.3228
+  ],
+  "description": "Величественный собор, известный своим куполом и колокольней, а также богатой историей.",
+  "photos": [
+    "https://example.com/kazan_cathedral_photo1.jpg",
+    "https://example.com/kazan_cathedral_photo2.jpg"
+  ],
+  "rating": 4.6,
+  "tags": [
+    "history",
+    "architecture",
+    "tourism",
+    "saint_petersburg",
+    "church",
+    "orthodox"
+  ],
+  "website": "https://www.kasancathedral.ru/",
+  "address": "Невский проспект, 25, Санкт-Петербург, Россия",
+  "opening_hours": "10:00 - 18:00",
+  "price_category": "бесплатно",
+  "activities": [
+    "посещение собора",
+    "фотосъемка",
+    "экскурсии"
+  ],
+  "special_features": [
+    "купол",
+    "колокольня",
+    "иконы",
+    "мозаика"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour",
+    "Библио Глобус"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714deeb374fbc7e9246018f"
+  },
+  "name": "Ленфильм",
+  "type": "museum",
+  "region": "Санкт-Петербург",
+  "coordinates": [
+    59.9494,
+    30.3338
+  ],
+  "description": "Музей кино, посвященный истории и развитию киностудии Ленфильм.",
+  "photos": [
+    "https://example.com/lenfilm_photo1.jpg",
+    "https://example.com/lenfilm_photo2.jpg"
+  ],
+  "rating": 4.4,
+  "tags": [
+    "cinema",
+    "history",
+    "tourism",
+    "saint_petersburg",
+    "museum",
+    "culture"
+  ],
+  "website": "https://www.lenfilm.ru/",
+  "address": "Каменноостровский проспект, 4, Санкт-Петербург, Россия",
+  "opening_hours": "10:00 - 18:00",
+  "price_category": "средний",
+  "activities": [
+    "посещение музея",
+    "экскурсии",
+    "просмотр фильмов"
+  ],
+  "special_features": [
+    "экспозиции о истории Ленфильма",
+    "киностудия",
+    "ретро-автомобили",
+    "костюмы"
+  ],
+  "tour_operators": [
+    "Intourist",
+    "Tez Tour",
+    "Библио Глобус"
+  ]
+}]
